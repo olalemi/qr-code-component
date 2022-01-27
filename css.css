@@ -2,7 +2,7 @@
 
 .about-box p{
 
-    font-size: 15px;
+    font-size: 15rem;
 }
 
 body{
@@ -15,10 +15,9 @@ body{
     margin-top: 150px;
     width:300px;
     background: #ffff;
-    padding:1.5%;
-    border-radius: 10px;
+    padding:2rem;
+    border-radius: 20px;
     position:relative;
-
 }
 
 img{
